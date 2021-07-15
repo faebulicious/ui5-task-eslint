@@ -58,9 +58,9 @@ The task runs ESLint for all your javascript files based on your ESLint configur
 Auto-fixing of problems is **not** enabled by default.
 
 ```bash
-WARN builder:custom:eslint 🟡 ESLint check oassed with warnings (1): BaseController.js
-ERR! builder:custom:eslint 🔴 ESLint check failed (2): Overview.controller.js
-ERR! builder:custom:eslint 🔴 ESLint check failed with 2 Errors and 1 Warnings
+WARN builder:custom:eslint 🧹 ESLint check passed with warnings (1): BaseController.js
+ERR! builder:custom:eslint 🧹 ESLint check failed (2): Overview.controller.js
+ERR! builder:custom:eslint 🧹 ESLint check failed with 2 Errors and 1 Warnings
 ```
 
 ## License
