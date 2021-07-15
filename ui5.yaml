@@ -1,0 +1,7 @@
+specVersion: '2.2'
+metadata:
+  name: ui5-task-eslint
+kind: extension
+type: task
+task:
+  path: lib/main.js
