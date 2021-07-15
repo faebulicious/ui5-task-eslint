@@ -1,6 +1,6 @@
 {
   "name": "ui5-task-eslint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Task for the UI5 tooling to find and fix problems using ESLint",
   "author": "Fabian von Allmen <faebu@faebu.ch>",
   "license": "MIT",
@@ -10,11 +10,11 @@
   },
   "dependencies": {
     "@ui5/logger": "^2.0.1",
+    "eslint": "^7.30.0",
     "path": "^0.12.7"
   },
   "devDependencies": {
     "@ui5/cli": "^2.11.0",
-    "eslint": "^7.30.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-jsdoc": "^35.1.2",
     "husky": "^6.0.0",
